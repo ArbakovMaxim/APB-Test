@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/APB-Test/static/css/main.7acaea2f.css",
+    "main.js": "/APB-Test/static/js/main.07d3183d.js",
+    "index.html": "/APB-Test/index.html",
+    "main.7acaea2f.css.map": "/APB-Test/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/APB-Test/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
